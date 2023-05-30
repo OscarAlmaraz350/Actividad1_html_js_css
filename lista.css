@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Arial', fantasy;
+}
+
+h1{
+    margin-left: 2%;
+    margin-right: 6%;
+    font-size: 20pt;
+}
+
+.contenedor{
+    margin-left: 2%;
+    margin-right: 6%;
+    height: 75px;
+}
+
+
+
+
+h3{
+    font-size: 20pt;
+    margin-left: 2%;
+    margin-right: 6%;
+    margin-bottom: 20px;
+    float: left;
+}
+h4{
+    font-size: 20pt;
+    margin-left: 2%;
+    margin-right: 6%;
+    width: 30%;
+    float: right;
+}
+.textbox {
+    height: 10px;
+    width: 35%;
+    resize: vertical;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    
+  }
+  
+.boton {
+    padding: 10px;
+    border-radius: 10px;
+    background-color:rgb(69, 117, 206);
+    text-align: center;
+  }
+
+.Editar1 {
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 27%;
+  }
+
+.Eliminar1 {
+    padding: 5px;
+    border-radius: 5px;
+  }
+
+.Editar2 {
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 20%;
+  }
+.Eliminar2 {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.checkbox-input{
+    margin-left: 2%;
+}
+
+.checkbox-input2{
+    margin-left: 12%;
+}
